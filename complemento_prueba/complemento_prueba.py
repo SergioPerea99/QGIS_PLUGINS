@@ -217,8 +217,7 @@ class complemento_prueba:
             # Do something useful here - delete the line containing pass and
             # substitute with your code.
             layer = self.iface.activeLayer()
-            features = layer.getFeatures()
-
+            
             pr = layer.dataProvider()
             pr.addAttributes([QgsField("ÁREA",QVariant.Double)])
             layer.updateFields()

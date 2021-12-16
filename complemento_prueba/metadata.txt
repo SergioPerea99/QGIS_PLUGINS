@@ -3,9 +3,9 @@
 # This file should be included when you package your plugin.# Mandatory items:
 
 [general]
-name=complemento_prueba
+name=calcular_areas
 qgisMinimumVersion=3.0
-description=Complemento de ejemplo para explicar cómo se crea un complemento.
+description=Calcula las areas de las tuplas de la capa actual.
 version=0.1
 author=Sergio Perea de la Casa
 email=spc00033@red.ujaen.es

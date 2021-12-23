@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/complemento_ejemplo" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
